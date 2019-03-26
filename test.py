@@ -72,5 +72,5 @@ class Login(object):
 course_web = "https://ice.xjtlu.edu.cn/course/view.php?id=153"
 path = "/home/sherlocky/下载/CSE107/"
 login = Login(course_web,path)
-login.login("Qiangqiang.liu17", "uEAjvHmc")
+login.login("user_name", "password")
 
